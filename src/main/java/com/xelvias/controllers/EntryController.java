@@ -1,3 +1,4 @@
+//EntryController
 package com.xelvias.controllers;
 
 import com.xelvias.models.Entry;
