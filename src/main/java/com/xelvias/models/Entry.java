@@ -4,7 +4,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 import javax.persistence.*;
 import java.io.Serializable;
-
+// sample comment
 @Entity
 @Table(name = "ENTRY")
 public class Entry implements Serializable {
